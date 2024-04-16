@@ -1,0 +1,26 @@
+body{
+    background-color: #ffce32;
+}
+h1, h2, h3{
+    color: #2466f8;
+}
+nav{
+    background-color: gold;
+    padding-bottom: 3em;
+    visibility: hidden;
+}
+nav li{
+    list-style-type: none;
+    margin-bottom: .6em;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#title{
+    text-align: center;
+    background-color: gold;
+}
