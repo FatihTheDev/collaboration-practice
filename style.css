@@ -10,6 +10,7 @@
 body{
     background-color: #ffce32;
     font-family: 'Avenir', sans-serif;
+    overflow-x: hidden;
 }
 h1, h2, h3{
     color: #2466f8;
