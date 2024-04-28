@@ -1,11 +1,11 @@
 import "./App.css"
-import Main from "./components/Main.tsx"
+import Register from "./components/Register.tsx"
 
 function App() {
 
   return (
     <>
-      <Main />
+      <Register />
     </>
   )
 }
